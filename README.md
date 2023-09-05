@@ -1,12 +1,18 @@
 # wusan.github.io
+
 ## who am i
 @wusan2000
+
 ## how to use git
-Git add .
+git clone
 
-Git commit -m "备注信息"
+git pull
 
-Git push -u origin main
+git add .
+
+git commit -m "备注信息"
+
+git push -u origin main
 
 ## some code
 * git config --global --unset http.proxy 
